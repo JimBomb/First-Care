@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> First Care </title>
+<link href="hackathonjai.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<body background="https://newevolutiondesigns.com/images/freebies/city-wallpaper-13.jpg" height="1080" width="1920">
+<table border="2">
+  <tr>
+    <th>Home</th>
+    <th>About</th>
+    <th>Emergency contact number</th>
+    <th>Profile</th>
+  </tr>
+
+</table>
+<br>
+<img src="p1.jpg" alt="Background image" width=150 height="150" allign="centre">
+<div style="background-color:lightblue">
+<h4>First name: Ramu</h4>
+<h4>Last name:Ghosh</h4>
+<h4>Address:9/4 Utam Nagar ghiari road (Mumbai)</h4>
+<h4>Phone no: 9000090000</h4>
+<h4>Age:34</h4>
+<h4>Gender:Male</h4>
+<h4>Blood Group:A+</h4>
+</div>
+
+</body>
+</html>

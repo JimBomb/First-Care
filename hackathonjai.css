@@ -1,0 +1,12 @@
+h4 {
+	text-align: center;
+	color: black;
+}
+body{
+	background-position: center;
+}
+.center{
+	display: block;
+
+	width: 10%;
+	}
